@@ -30,7 +30,7 @@ public class ReadConfig {
 			System.out.println(e.getMessage());
 		}
 
-		System.out.println("Rough message");
+		System.out.println("Rough message second timeggfhfhfg ");
 //		obj1.read();
 
 //		try {
